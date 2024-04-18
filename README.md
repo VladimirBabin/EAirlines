@@ -14,9 +14,9 @@ Here are the stages the application will go through:
 4. Spring Boot application;
 
 - [Console based application](#console-based-app)
-- [Stack](#http-application)
-- [Installation](#spring)
-- [Achievements](#spring-boot)
+- [HTTP application](#http-application)
+- [Spring](#spring)
+- [Spring Boot](#spring-boot)
 
 ## Console based app
 

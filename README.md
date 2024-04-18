@@ -30,7 +30,8 @@ This stage includes following steps:
 4. Setting up necessary dependencies;
 5. Creating implementations for interfaces (view, service, 
 database layers);
-6. Writing bootstrap methods for populating the database;
+6. Creating domain entities for aircrafts, flights, airports, tickets.
+7. Writing bootstrap methods for populating the database;
 
 
 ## HTTP application

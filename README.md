@@ -33,6 +33,28 @@ database layers);
 6. Creating domain entities for aircrafts, flights, airports, tickets.
 7. Writing bootstrap methods for populating the database;
 
+### Entities description:
+Aircraft
+- Manufacturer
+- Model
+- Capacity of people
+
+Flight
+- Departure airport
+- Arrival airport
+- Departure date time
+- Estimated arrival date time
+- Aircraft
+- Tickets (list)
+
+Airport
+- Name
+- ICAO code (4 char long)
+- IATA code
+
+Ticket
+- Flight
+- Position in the aircraft
 
 ## HTTP application
 ## Spring

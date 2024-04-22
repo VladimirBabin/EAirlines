@@ -1,6 +1,7 @@
-package com.epamtraining.javastack.epamairlines;
+package com.epamtraining.javastack.eairlines;
 
-public class EpamAirlinesApp {
+
+public class EAirlinesApp {
     public static void main(String[] args) {
         System.out.println("Hello from Epam airlines!");
     }
